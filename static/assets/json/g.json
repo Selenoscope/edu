@@ -1107,6 +1107,7 @@
     "name": "Monkey Mart",
     "link": "/e/monkey-mart/index.html",
     "image": "/assets/media/icons/mm.webp",
+    "dy": "true",
     "categories": ["all", "local"]
   },
   {
